@@ -93,6 +93,7 @@ end
 ## Todo
 - Add some tests
 - Improve `start()` to ask for your shopify API details and write them to config.yml
+- Haridas is here.
 
 ## Author
 [Project Homepage](http://dannysmith.github.io/guard-shopifytheme)
@@ -102,4 +103,3 @@ end
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dannysmith/guard-shopifytheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
